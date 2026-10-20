@@ -1,7 +1,7 @@
 [project]
 name = "dz-catalog-analysis-matrosov-m26-555"
 version = "0.1.0"
-description = "Add your description here"
+description = "Анализ каталога фильмов на Python"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
